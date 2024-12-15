@@ -1,0 +1,21 @@
+.center{
+    text-align: center;
+}
+
+.contain{
+    display: flex;
+    justify-content: center;
+}
+.sticky{
+    position: sticky;
+    top: 0;
+}
+.padding{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.padding_vertical{
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
